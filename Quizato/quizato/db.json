@@ -10,12 +10,12 @@
       "id": 1
     },
     {
-      "ques": "new",
-      "opt1": "asas",
-      "opt2": "ad",
-      "opt3": "ass",
-      "opt4": "ad",
-      "ans": "ad",
+      "ques": "Where meet students",
+      "opt1": "Hospital",
+      "opt2": "College",
+      "opt3": "Station",
+      "opt4": "Police Station",
+      "ans": "College",
       "id": 2
     },
     {
